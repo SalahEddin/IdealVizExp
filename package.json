@@ -1,0 +1,8 @@
+{
+  "name": "exp001",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SalahEddin/IdealVizExp.git",
+  "author": "Salah Eddin Alshaal",
+  "license": "MIT"
+}
